@@ -4,7 +4,6 @@ date: 2019-03-13
 description: สวดมนต์-กราบพระก่อนเรียน • Photo by <a href="https://unsplash.com/@juanmacllas">Juanma Clemente-Alloza
 </a> on <a href="https://unsplash.com/">Unsplash</a>
 categories:
-  - สวดมนต์
 image: https://source.unsplash.com/nEL4ga4ksWg
 author_staff_member: tom
 ---
