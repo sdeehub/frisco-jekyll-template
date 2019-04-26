@@ -1,5 +1,5 @@
 ---
-title: ขั้นตอนที่ 1 - ทักทายลูกค้า
+title: ภาษาอังกฤษสำหรับทักทายลูกค้า
 date: 2019-04-26
 description: ภาษาอังกฤษในชีวิตประจำวันสำหรับงานนวด • Photo by <a href="https://unsplash.com/@freestocks">freestocks.org</a> on <a href="https://unsplash.com/">Unsplash</a>
 categories:
@@ -7,6 +7,7 @@ categories:
 image: https://source.unsplash.com/jUSu0686zDM
 author_staff_member: robin
 ---
+#### ขั้นตอนที่ 1 - ทักทายลูกค้า
 - Good morning. / กู๊ด มอนิ่ง - สวัสดีตอนเช้า
 - Good afternoon. / กู๊ด อัฟเตอร์นูน - สวัสดีตอนบ่าย
 - Good evening. / กู๊ด อีฟวนิง - สวัสดีตอนเย็น
