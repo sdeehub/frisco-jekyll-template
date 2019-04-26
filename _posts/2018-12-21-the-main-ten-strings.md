@@ -1,6 +1,6 @@
 ---
 title: เส้นประธานทั้งสิบ
-date: 2019-03-09
+date: 2018-12-21
 description: บทท่องเส้นประธานทั้งสิบ • Photo by <a href="https://unsplash.com/@sssyexap">Nhia Moua</a> on <a href="https://unsplash.com/">Unsplash</a>
 categories:
   - body massage

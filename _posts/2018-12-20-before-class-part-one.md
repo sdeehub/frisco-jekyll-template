@@ -1,6 +1,6 @@
 ---
 title: สวดมนต์ก่อนเรียน
-date: 2019-03-13
+date: 2018-12-20
 description: สวดมนต์-กราบพระก่อนเรียน • Photo by <a href="https://unsplash.com/@juanmacllas">Juanma Clemente-Alloza</a> on <a href="https://unsplash.com/">Unsplash</a>
 categories:
   - Mindful
